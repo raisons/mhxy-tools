@@ -1,0 +1,570 @@
+{
+"stone": [{
+  "name": "冰符石",
+  "color": "红",
+  "level": "1级",
+  "desc": "体质+1",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "",
+  "value2": ""
+}, {
+  "name": "风符石",
+  "color": "黄",
+  "level": "1级",
+  "desc": "魔力+1",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "",
+  "value2": ""
+}, {
+  "name": "炎符石",
+  "color": "黄",
+  "level": "1级",
+  "desc": "力量+1",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "",
+  "value2": ""
+}, {
+  "name": "土符石",
+  "color": "红",
+  "level": "1级",
+  "desc": "耐力+1",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "",
+  "value2": ""
+}, {
+  "name": "雷符石",
+  "color": "红",
+  "level": "1级",
+  "desc": "敏捷+1",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "",
+  "value2": ""
+}, {
+  "name": "火符石",
+  "color": "黄",
+  "level": "1级",
+  "desc": "法术伤害+1",
+  "attr1": "",
+  "value1": "",
+  "attr2": "法伤",
+  "value2": 1
+}, {
+  "name": "电符石",
+  "color": "红",
+  "level": "1级",
+  "desc": "法术防御+1",
+  "attr1": "",
+  "value1": "",
+  "attr2": "法防",
+  "value2": 1
+}, {
+  "name": "飘渺符石",
+  "color": "绿",
+  "level": "2级",
+  "desc": "灵力+1.5",
+  "attr1": "",
+  "value1": "",
+  "attr2": "灵力",
+  "value2": 1.5
+}, {
+  "name": "红云符石",
+  "color": "红",
+  "level": "2级",
+  "desc": "气血+10",
+  "attr1": "",
+  "value1": "",
+  "attr2": "气血",
+  "value2": 10
+}, {
+  "name": "天仙符石",
+  "color": "绿",
+  "level": "2级",
+  "desc": "魔法+6",
+  "attr1": "",
+  "value1": "",
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "金光符石",
+  "color": "蓝",
+  "level": "2级",
+  "desc": "命中+4",
+  "attr1": "",
+  "value1": "",
+  "attr2": "命中",
+  "value2": 4
+}, {
+  "name": "天神符石",
+  "color": "蓝",
+  "level": "2级",
+  "desc": "伤害+1.5",
+  "attr1": "",
+  "value1": "",
+  "attr2": "伤害",
+  "value2": 1.5
+}, {
+  "name": "碧玉符石",
+  "color": "红",
+  "level": "2级",
+  "desc": "防御+3",
+  "attr1": "",
+  "value1": "",
+  "attr2": "防御",
+  "value2": 3
+}, {
+  "name": "霞光符石",
+  "color": "绿",
+  "level": "2级",
+  "desc": "速度+1.5",
+  "attr1": "",
+  "value1": "",
+  "attr2": "速度",
+  "value2": 1.5
+}, {
+  "name": "逍遥符石",
+  "color": "绿",
+  "level": "2级",
+  "desc": "躲避+3",
+  "attr1": "",
+  "value1": "",
+  "attr2": "躲避",
+  "value2": 3
+}, {
+  "name": "清心符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,灵力+1.5",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "灵力",
+  "value2": 1.5
+}, {
+  "name": "虹珀符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,魔法+6",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "陌影符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,命中+4",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "命中",
+  "value2": 4
+}, {
+  "name": "北冥符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,伤害+1.5",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "伤害",
+  "value2": 1.5
+}, {
+  "name": "灵月符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,防御+3",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "防御",
+  "value2": 3
+}, {
+  "name": "锦瑟符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,速度+1.5",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "速度",
+  "value2": 1.5
+}, {
+  "name": "星辰符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,法术伤害+2",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "法伤",
+  "value2": 2
+}, {
+  "name": "雪月符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,法术防御+2",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "银光符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,躲避+3",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "躲避",
+  "value2": 3
+}, {
+  "name": "玄魂符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "体质+1,固定伤害+2",
+  "attr1": "体质",
+  "value1": 1,
+  "attr2": "固定伤害",
+  "value2": 2
+}, {
+  "name": "醉魂符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,气血+10",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "气血",
+  "value2": 10
+}, {
+  "name": "昔光符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1 魔法+6",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "玄羽符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,命中+4",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "命中",
+  "value2": 4
+}, {
+  "name": "霸风符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,伤害+1.5",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "伤害",
+  "value2": 1.5
+}, {
+  "name": "无相符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,防御+3",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "防御",
+  "value2": 3
+}, {
+  "name": "无极符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,速度+1.5",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "速度",
+  "value2": 1.5
+}, {
+  "name": "流风符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1 法术伤害+2",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "法伤",
+  "value2": 2
+}, {
+  "name": "子蚀符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1 法术防御+2",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "紫晶符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,躲避+3",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "躲避",
+  "value2": 3
+}, {
+  "name": "圣火符石",
+  "color": "白",
+  "level": "3级",
+  "desc": "魔力+1,固定伤害+2",
+  "attr1": "魔力",
+  "value1": 1,
+  "attr2": "固定伤害",
+  "value2": 2
+}, {
+  "name": "流魂符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,灵力+1.5",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "灵力",
+  "value2": 1.5
+}, {
+  "name": "地炎符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,气血+10",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "气血",
+  "value2": 10
+}, {
+  "name": "素影符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,魔法+6",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "燕灵符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,防御+3",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "防御",
+  "value2": 3
+}, {
+  "name": "降龙符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,速度+1.5",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "速度",
+  "value2": 1.5
+}, {
+  "name": "九凤符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,法术防御+2",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "法伤",
+  "value2": 2
+}, {
+  "name": "墨陀符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1 法术伤害+2",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "苍玉符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1,躲避+3",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "躲避",
+  "value2": 3
+}, {
+  "name": "南夕符石",
+  "color": "黑",
+  "level": "3级",
+  "desc": "力量+1 固定伤害+2",
+  "attr1": "力量",
+  "value1": 1,
+  "attr2": "固定伤害",
+  "value2": 2
+}, {
+  "name": "天珍符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,灵力+1.5",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "灵力",
+  "value2": 1.5
+}, {
+  "name": "乾坤符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,气血+10",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "气血",
+  "value2": 10
+}, {
+  "name": "珍珀符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,魔法+6",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "银竹符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,命中+4",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "命中",
+  "value2": 4
+}, {
+  "name": "神川符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,伤害+1.5",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "伤害",
+  "value2": 1.5
+}, {
+  "name": "玲珑符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,速度+1.5",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "速度",
+  "value2": 1.5
+}, {
+  "name": "九影符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,法术伤害+2",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "法伤",
+  "value2": 2
+}, {
+  "name": "百冥符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,法术防御+2",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "暮影符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,躲避+3",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "躲避",
+  "value2": 3
+}, {
+  "name": "莫念符石",
+  "color": "蓝",
+  "level": "3级",
+  "desc": "耐力+1,固定伤害+2",
+  "attr1": "耐力",
+  "value1": 1,
+  "attr2": "固定伤害",
+  "value2": 2
+}, {
+  "name": "乱花符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,灵力+1.5",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "灵力",
+  "value2": 1.5
+}, {
+  "name": "引幽符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,气血+10",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "气血",
+  "value2": 10
+}, {
+  "name": "波涛符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,魔法+6",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "魔法",
+  "value2": 6
+}, {
+  "name": "铃星符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,命中+4",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "命中",
+  "value2": 4
+}, {
+  "name": "狂念符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,伤害+1.5",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "伤害",
+  "value2": 1.5
+}, {
+  "name": "召影符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1 防御+3",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "幽月符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,法术伤害+2",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "法伤",
+  "value2": 2
+}, {
+  "name": "两仪符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,法术防御+2",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "法防",
+  "value2": 2
+}, {
+  "name": "七情符石",
+  "color": "紫",
+  "level": "3级",
+  "desc": "敏捷+1,固定伤害+2",
+  "attr1": "敏捷",
+  "value1": 1,
+  "attr2": "固定伤害",
+  "value2": 2
+}]  
+}
